@@ -1,0 +1,19 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "nodejs tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/uchiha-suraj?tab=repositories"
+  },
+  "author": "Suraj Adhikary",
+  "license": "ISC",
+  "dependencies": {
+    "anime": "^0.1.2",
+    "superheroes": "^3.0.0"
+  }
+}
